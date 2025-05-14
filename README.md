@@ -1,7 +1,7 @@
 Manual do Usuário – Agenda Telefônica HelaTech®
 Versão: 1.0
 Desenvolvedor: HelaTech®
-Plataforma: Windows/Linux – Requer Python 3.10+ e bibliotecas tkinter, openpyxl
+Plataforma: Windows/Linux – Requer Python 3.10+ e bibliotecas tkinter, openpyxl.
 
 Introdução
 
@@ -16,6 +16,11 @@ Formulário de Entrada – Campos para digitar informações de contato.
 Tabela (Treeview) – Exibe os contatos salvos e permite selecionar, editar ou excluir registros.
 
 Funcionalidades
+
+</span>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1b6bb6e0-0688-4ade-92a0-8858d1773fcf" />
+</div>
 
 1. Adicionar Contato
 Preencha os campos:
@@ -34,17 +39,21 @@ Digite qualquer termo (nome, telefone, e-mail) no campo de busca e clique em "Pr
 Clique em "Ver Dados" para carregar todos os contatos registrados na agenda.
 
 4. Atualizar Contato
+</span>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1a85efae-d21f-4e03-bcf9-fd78c8543879" />
+</div>
 Clique sobre um contato na tabela.
 Clique em "Atualizar".
 Edite os campos na janela que se abrir.
 Clique em "Salvar".
 
-5. Deletar Contato(s)
+6. Deletar Contato(s)
 Marque as caixas de seleção ao lado dos contatos.
 Clique em "Deletar".
 Dica: Use os botões ✓ (selecionar todos), ✗ (desmarcar todos) ou ⥁ (inverter seleção).
 
-6. Exportar para Excel
+7. Exportar para Excel
 Selecione os contatos desejados.
 Clique em "Download".
 Escolha o local e o nome do arquivo .xlsx.
